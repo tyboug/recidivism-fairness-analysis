@@ -64,11 +64,3 @@ Subgroup analysis identified meaningful differences in false positive and false 
 ### Error Rates by Race
 
 ![Error Rates by Race](images/race_error_rates.png)
-
-## Repository Structure
-
-```text
-recidivism_fairness_analysis.ipynb   Main analysis notebook
-images/                               Exported figures used in the analysis
-outputs/                              Exported model and fairness result tables
-requirements.txt                      Required Python libraries
