@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1,ROC-AUC
+Logistic Regression,0.689,0.704,0.624,0.662,0.741
+Random Forest,0.654,0.648,0.634,0.641,0.718
+Dummy Baseline,0.513,0.0,0.0,0.0,0.5

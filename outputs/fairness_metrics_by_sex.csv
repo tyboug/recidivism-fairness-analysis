@@ -1,0 +1,3 @@
+Sex,Observations,Accuracy,Precision,Recall,F1,False Positive Rate,False Negative Rate,Predicted Positive Rate
+Female,243,0.638,0.557,0.406,0.47,0.211,0.594,0.288
+Male,992,0.684,0.688,0.658,0.673,0.29,0.342,0.472
